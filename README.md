@@ -12,21 +12,21 @@ topics and look forward to the coming week's material.  All meetings
 will be on Teams.
 
 
-## Thursday 5th November
+## Thursday 5th November  (week 1)
 
 Overview of course.  Introductory neuroscience.  Simple models.
 
 
-## 12th November
+## 12th November (week 2)
 
 Perceptron.  Multi-layer perceptron.
 
 
-## 19th November
+## 19th November (week 3)
 
 
 
-## 26th November
+## 26th November (week 4)
 
-## 5th December
+## 3rd December (conclusions)
 
