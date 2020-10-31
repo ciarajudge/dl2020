@@ -14,7 +14,7 @@ will be on Teams.
 
 ## Thursday 5th November  (week 1)
 
-Overview of course.  Introductory neuroscience.  Simple models.
+Overview of course.  Introductory neuroscience.  Simple models.  Perceptron.
 
 
 ## 12th November (week 2)
