@@ -14,19 +14,27 @@ will be on Teams.
 
 ## Thursday 5th November  (week 1)
 
-Overview of course.  Introductory neuroscience.  Simple models.  Perceptron.
+Live: Overview of course.  
+
+Introductory neuroscience.  Simple models.  Perceptron.
 
 
 ## 12th November (week 2)
 
-Perceptron.  Multi-layer perceptron.
+Live: Code run throughs.
+
+Perceptron.  Multi-layer perceptron.  Backpropagation
 
 
 ## 19th November (week 3)
 
+Live: code run through (backprop)
+MLP Applications; Dimensionality reduction.  Hopfield networks.
 
 
 ## 26th November (week 4)
 
+Live: assignment discussion.
+Deep belief networks; Generative Adversarial Learning.  Conclusions.
 ## 3rd December (conclusions)
 
