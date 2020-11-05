@@ -36,7 +36,7 @@ L2: Code run throughs.
 
 P4: Backprop.
 
-P5: Backprop applications (to be recorded).
+P5: Backprop applications.
 
 P6: Back prop derivation (two parts).
 
