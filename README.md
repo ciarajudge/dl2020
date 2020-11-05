@@ -1,5 +1,10 @@
 # Deep learning 2020 module
 
+
+# Main text
+
+[Artificial Intelligence Engines](http://jim-stone.staff.shef.ac.uk/AIEngines/index.html)
+
 # Assignments
 
 Two planned.
