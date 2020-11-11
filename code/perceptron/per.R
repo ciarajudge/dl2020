@@ -1,6 +1,6 @@
 ##  Perceptron learning rule.
 
-data = read.table("xor.dat")
+data = read.table("eg2d.dat")
 ninputs = nrow(data)
 targets = data[,3]
 inputs = cbind( as.matrix(data[,1:2]), rep(-1,ninputs))
@@ -34,7 +34,7 @@ for (iteration in 1:100) {
   for (i in order) {
     x = inputs[i,]
     t = targets[i]
-    y = sum(x * wts)
+    y = x %*% wts
     y = y > 0;
     error = error + (0.5*(t - y)^2);
     dw = epsilon * ( t - y) * x
