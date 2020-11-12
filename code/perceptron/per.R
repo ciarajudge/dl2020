@@ -1,4 +1,5 @@
 ##  Perceptron learning rule.
+## master: ~/txt/cam/teaching/dl/code/
 
 data = read.table("eg2d.dat")
 ninputs = nrow(data)
@@ -34,10 +35,10 @@ for (iteration in 1:100) {
   for (i in order) {
     x = inputs[i,]
     t = targets[i]
-    y = x %*% wts
+    y = sum ( x * wts )
     y = y > 0;
     error = error + (0.5*(t - y)^2);
-    dw = epsilon * ( t - y) * x
+    dw = epsilon * ( t - y ) * x
     wts = wts + dw;
   }
   title =sprintf('Iteration %d error %.3f\n', iteration, error)
