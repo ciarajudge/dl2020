@@ -44,11 +44,11 @@ P6: Back prop derivation (two parts).
 
 Live: code run through (backprop, keras, assignment 1)
 
-P7: Dimensionality reduction
+P7: Dimensionality reduction.
 
 P8: Tips and tricks/ recent advances.
 
-P9: Convolutional neural networks (CNNs), images
+P9: Convolutional neural networks (CNNs), images.
 
 
 
@@ -56,8 +56,7 @@ P9: Convolutional neural networks (CNNs), images
 
 Live: assignment discussion.
 
-Dimensionality reduction.  Hopfield networks.  Boltzmann machines.
-
+Hopfield networks.  Boltzmann machines.
 
 Deep belief networks; Generative Adversarial Learning.
 
@@ -73,3 +72,6 @@ Conclusions.
 
 Example classes (3) likely to run over into Lent Term, possibly with
 second assignment.
+
+# Assignments
+
