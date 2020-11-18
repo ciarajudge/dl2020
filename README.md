@@ -42,16 +42,23 @@ P6: Back prop derivation (two parts).
 
 ## 19th November (week 3)
 
-Live: code run through (backprop)
+Live: code run through (backprop, keras, assignment 1)
 
-What's new? Tips and tricks.
+P7: Dimensionality reduction
 
-Dimensionality reduction.  Hopfield networks.  Boltzmann machines.
+P8: Tips and tricks/ recent advances.
+
+P9: Convolutional neural networks (CNNs), images
+
 
 
 ## 26th November (week 4)
 
 Live: assignment discussion.
+
+Dimensionality reduction.  Hopfield networks.  Boltzmann machines.
+
+
 Deep belief networks; Generative Adversarial Learning.
 
 Reinforcement learning?
