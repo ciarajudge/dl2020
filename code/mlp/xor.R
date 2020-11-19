@@ -74,16 +74,7 @@ for (epoch in 1:nepoch) {
       delta_j[q] = gprime(x_j[q]) * delta_k[1] * W2[1,q]
     }
     
-    ## for (p in 1:(I+1)) {
-    ##   for (q in 1:J) {
-    ##     DW1[q,p] = DW1[q,p] + delta_j[q] * z_i[p]
-    ##   }
-    ## }
     DW1 = DW1 + outer( delta_j, as.vector(z_i))
-    ##m = as.vector(z_i)
-    ##m = rep(0,3)
-    ##DW1 = DW1 + outer(delta_j, rep(0,3))
-    ##DW1 = DW1 + outer(delta_j, m)
   }
 
   
