@@ -7,7 +7,9 @@
 
 # Assignments
 
-Two planned.
+[Assignment 1](dla1_2020.pdf).  Due date to be confirmed.
+
+Second to follow.
 
 # Planned timetable.
 
@@ -42,7 +44,7 @@ P6: Back prop derivation (two parts).
 
 ## 19th November (week 3)
 
-Live: code run through (backprop, keras, assignment 1)
+L3: code run through (backprop, keras, assignment 1)
 
 P7: Dimensionality reduction.
 
