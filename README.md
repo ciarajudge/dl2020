@@ -58,17 +58,15 @@ P9: Convolutional neural networks (CNNs), images.
 
 Live: assignment discussion.
 
-Hopfield networks.  Boltzmann machines.
+P10: Hopfield networks.
 
-Deep belief networks; Generative Adversarial Learning.
+P11: Boltzmann machines / RBMs / GANs.
 
-Reinforcement learning?
+P12: Sequences.
 
-Applications to Neuroscience.
+P13: Reinforcement learning.
 
-Conclusions.
 ## 3rd December (conclusions)
-
 
 # Examples classes
 
