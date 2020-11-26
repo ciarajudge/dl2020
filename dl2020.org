@@ -1,0 +1,111 @@
+
+* externals auditing
+
+|---------------------+--------|
+| Richard Dear        | rajd2  |
+| Ankita Nagpal       | akn35  |
+| Jacqueline Von Seth | jv422  |
+| Hanna               | hmt53  |
+| Imogen              | is466  |
+| Abhsishek           | as3116 |
+|---------------------+--------|
+
+
+** TODO Imogen to collect books from Jim
+[[mu4e:msgid:LO3P265MB229771C97300F90D3CB30D88A7EC0@LO3P265MB2297.GBRP265.PROD.OUTLOOK.COM][Re: DL course]]
+
+** WAIT asked Dervila about invoice for reimbursement
+[[mu4e:msgid:87r1p5a3fs.fsf@cam.ac.uk][Invoice]]
+
+** TODO reimbursement from DAMTP for DL books
+
+
+* Planning for DL 2020
+
+
+sequence: prepare -> record/deliver
+
+Targets: 800 minutes
+
+|------------------+---------------------------------------+-----|
+| [2020-11-05 Thu] | L1 intro                              |  50 |
+| [2020-11-06 Fri] | 2. neuro101                           |  62 |
+| [2020-11-09 Mon] | 3 perceptron                          |  62 |
+|------------------+---------------------------------------+-----|
+| [2020-11-12 Thu] | L2                                    |  50 |
+| [2020-11-16 Mon] | 4 backprop                            |  62 |
+| [2020-11-17 Tue] | 5 backprop applications               |  44 |
+| [2020-11-13 Fri] | 6 backprop derivation                 |  50 |
+|------------------+---------------------------------------+-----|
+| [2020-11-19 Thu] | L3                                    |  50 |
+| [2020-11-08 Sun] | 7.3 Dimensionality reduction part 1   |  44 |
+| [2020-11-08 Sun] | 7.3 Dimensionality reduction part 2   |  21 |
+| [2020-11-08 Sun] | 7.3 Dimensionality reduction part 3   |  10 |
+| [2020-11-10 Tue] | 8a Tips and tricks                    |  43 |
+| [2020-11-10 Tue] | 8b Tips and tricks autograd           |  35 |
+| [2020-11-08 Sun] | 9 Images / convnet                    |  56 |
+|------------------+---------------------------------------+-----|
+| [2020-11-26 Thu] | L4 answering homework questions, code |  50 |
+|                  | 10 Hopfield                           |  56 |
+|                  | 10b Hopfield symmetry/sync            |   6 |
+| -                | 11 RBM                                |  45 |
+| j                | 12 Sequences                          |  61 |
+| j                | 13 RL                                 |  60 |
+|                  | 14 Unsup ?                            |  40 |
+|------------------+---------------------------------------+-----|
+| [2020-12-02 Wed] | L5 conclusions lecture; asssign 2     |   0 |
+|------------------+---------------------------------------+-----|
+|------------------+---------------------------------------+-----|
+|                  | Total                                 | 967 |
+|                  |                                       |     |
+|------------------+---------------------------------------+-----|
+#+TBLFM: @23$3=vsum(@I..IIIII)
+
+Recent advances
+
+
+Topics to prepare:
+
+Images; Convolutional networks
+
+Hopfield network --> RBMs  (generative networks)
+
+
+
+
+
+
+* Assignment 2
+
+Menace -- R imp (help them with rotations etc)
+
+
+hopfield + RL
+
+
+** word2vec test
+
+check analogy for biological data, e.g. 
+
+show cities -> countries PCA
+
+salmon -> fish; labrador -> dog?
+
+to do this embedding, we can use this
+
+https://github.com/bnosac/word2vec which sits on top of word2vec cpp
+implementation and looks recently updated.  Other examples for
+exercises are given at:
+
+
+*** biowordvec
+
+this is a 13gb large dataset which should be fun to use, to look for
+meaningful relationships in biology datasets.
+
+https://github.com/ncbi-nlp/BioSentVec#biowordvec
+
+trained using https://fasttext.cc/
+
+no need to ask students to train networks.
+
