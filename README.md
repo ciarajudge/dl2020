@@ -7,7 +7,7 @@
 
 # Assignments
 
-[Assignment 1](dla1_2020.pdf).  Due date to be confirmed.
+[Assignment 1](dla1_2020.pdf).
 
 Second to follow.
 
