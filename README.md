@@ -53,7 +53,6 @@ P8: Tips and tricks/ recent advances.
 P9: Convolutional neural networks (CNNs), images.
 
 
-
 ## 26th November (week 4)
 
 Live: assignment discussion.
@@ -65,6 +64,8 @@ P11: Boltzmann machines / RBMs / GANs.
 P12: Sequences.
 
 P13: Reinforcement learning.
+
+P14: Unsupervised learning.
 
 ## 3rd December (conclusions)
 
